@@ -1,2 +1,2 @@
-# public_repo
-Repository for publicly shareable code
+# azure_ai
+
